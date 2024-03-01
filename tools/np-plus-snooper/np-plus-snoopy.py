@@ -4,7 +4,7 @@
 #Snoops on unsaved files stored in \backup, outputs contents in plaintext.
 #NOTE: THIS WILL NOT WORK ON ANY *SAVED* FILES, THEY ARE NOT CACHED.
 #Provides file name, file path, file creation date and file contents.
-# Usage: python3 np-snooper.py
+#Usage: python3 np-snooper.py
 
 import os
 import glob
