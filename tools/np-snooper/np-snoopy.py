@@ -1,5 +1,8 @@
 import os
 import glob
+#import pyfiglet
+
+#print(pyfiglet.figlet_format("NP Snoopy"))
 
 app_data_local = os.environ['LOCALAPPDATA']
 relative_path_to_bin = r"Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState"
